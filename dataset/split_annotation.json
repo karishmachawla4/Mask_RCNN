@@ -1,0 +1,6499 @@
+{
+    "10_0_2.jpg9740": {
+        "filename": "10_0_2.jpg",
+        "size": 9740,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        95,
+                        95,
+                        136,
+                        173,
+                        177,
+                        132,
+                        93,
+                        95
+                    ],
+                    "all_points_y": [
+                        275,
+                        242,
+                        230,
+                        250,
+                        275,
+                        290,
+                        283,
+                        275
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_0_3.jpg9724": {
+        "filename": "10_0_3.jpg",
+        "size": 9724,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        90,
+                        127,
+                        175,
+                        178,
+                        88,
+                        90
+                    ],
+                    "all_points_y": [
+                        189,
+                        199,
+                        194,
+                        167,
+                        167,
+                        189
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        107,
+                        107,
+                        158,
+                        160,
+                        127,
+                        109,
+                        107
+                    ],
+                    "all_points_y": [
+                        206,
+                        190,
+                        194,
+                        216,
+                        225,
+                        210,
+                        206
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_1_1.jpg9378": {
+        "filename": "10_1_1.jpg",
+        "size": 9378,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        88,
+                        91,
+                        130,
+                        166,
+                        166,
+                        120,
+                        88
+                    ],
+                    "all_points_y": [
+                        139,
+                        103,
+                        93,
+                        113,
+                        144,
+                        156,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_1_3.jpg9184": {
+        "filename": "10_1_3.jpg",
+        "size": 9184,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        264,
+                        268,
+                        344,
+                        340,
+                        278,
+                        266,
+                        264
+                    ],
+                    "all_points_y": [
+                        120,
+                        97,
+                        95,
+                        126,
+                        126,
+                        118,
+                        120
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_2_3.jpg9198": {
+        "filename": "10_2_3.jpg",
+        "size": 9198,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        14,
+                        18,
+                        94,
+                        90,
+                        28,
+                        16,
+                        14
+                    ],
+                    "all_points_y": [
+                        120,
+                        97,
+                        95,
+                        126,
+                        126,
+                        118,
+                        120
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_3_2.jpg10300": {
+        "filename": "10_3_2.jpg",
+        "size": 10300,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        112,
+                        81,
+                        130,
+                        200,
+                        229,
+                        185,
+                        116,
+                        112
+                    ],
+                    "all_points_y": [
+                        316,
+                        251,
+                        189,
+                        203,
+                        269,
+                        324,
+                        320,
+                        316
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_4_5.jpg10213": {
+        "filename": "10_4_5.jpg",
+        "size": 10213,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        78,
+                        100,
+                        144,
+                        172,
+                        141,
+                        102,
+                        78
+                    ],
+                    "all_points_y": [
+                        96,
+                        131,
+                        137,
+                        95,
+                        46,
+                        48,
+                        96
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_5_0.jpg10135": {
+        "filename": "10_5_0.jpg",
+        "size": 10135,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        41,
+                        12,
+                        38,
+                        84,
+                        106,
+                        84,
+                        41,
+                        41
+                    ],
+                    "all_points_y": [
+                        295,
+                        261,
+                        213,
+                        213,
+                        251,
+                        300,
+                        297,
+                        295
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        246,
+                        251,
+                        288,
+                        332,
+                        332,
+                        283,
+                        246
+                    ],
+                    "all_points_y": [
+                        182,
+                        149,
+                        133,
+                        151,
+                        193,
+                        201,
+                        182
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_5_1.jpg8894": {
+        "filename": "10_5_1.jpg",
+        "size": 8894,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        244,
+                        301,
+                        332,
+                        335,
+                        314,
+                        269,
+                        246,
+                        244
+                    ],
+                    "all_points_y": [
+                        76,
+                        78,
+                        91,
+                        104,
+                        115,
+                        115,
+                        97,
+                        76
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        265,
+                        312,
+                        314,
+                        298,
+                        286,
+                        272,
+                        265,
+                        265
+                    ],
+                    "all_points_y": [
+                        117,
+                        117,
+                        133,
+                        143,
+                        143,
+                        139,
+                        135,
+                        117
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_5_4.jpg8923": {
+        "filename": "10_5_4.jpg",
+        "size": 8923,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        65,
+                        68,
+                        110,
+                        151,
+                        152,
+                        119,
+                        70,
+                        65
+                    ],
+                    "all_points_y": [
+                        281,
+                        247,
+                        240,
+                        256,
+                        293,
+                        297,
+                        289,
+                        281
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_5_5.jpg10493": {
+        "filename": "10_5_5.jpg",
+        "size": 10493,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        52,
+                        51,
+                        108,
+                        142,
+                        136,
+                        106,
+                        54,
+                        52
+                    ],
+                    "all_points_y": [
+                        198,
+                        175,
+                        183,
+                        177,
+                        209,
+                        219,
+                        205,
+                        198
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        67,
+                        67,
+                        98,
+                        115,
+                        115,
+                        67
+                    ],
+                    "all_points_y": [
+                        211,
+                        241,
+                        243,
+                        244,
+                        217,
+                        211
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_6_1.jpg8695": {
+        "filename": "10_6_1.jpg",
+        "size": 8695,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        15,
+                        62,
+                        64,
+                        48,
+                        36,
+                        22,
+                        15,
+                        15
+                    ],
+                    "all_points_y": [
+                        117,
+                        117,
+                        133,
+                        143,
+                        143,
+                        139,
+                        135,
+                        117
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_6_4.jpg9188": {
+        "filename": "10_6_4.jpg",
+        "size": 9188,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        145,
+                        145,
+                        184,
+                        227,
+                        236,
+                        233,
+                        202,
+                        165,
+                        145
+                    ],
+                    "all_points_y": [
+                        324,
+                        295,
+                        285,
+                        287,
+                        310,
+                        335,
+                        341,
+                        337,
+                        324
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_6_5.jpg11060": {
+        "filename": "10_6_5.jpg",
+        "size": 11060,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        140,
+                        145,
+                        168,
+                        210,
+                        227,
+                        227,
+                        186,
+                        160,
+                        140
+                    ],
+                    "all_points_y": [
+                        202,
+                        227,
+                        241,
+                        237,
+                        230,
+                        211,
+                        208,
+                        205,
+                        202
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        156,
+                        156,
+                        177,
+                        207,
+                        208,
+                        176,
+                        158,
+                        156
+                    ],
+                    "all_points_y": [
+                        237,
+                        269,
+                        278,
+                        275,
+                        237,
+                        244,
+                        237,
+                        237
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        145,
+                        145,
+                        184,
+                        227,
+                        236,
+                        233,
+                        202,
+                        165,
+                        145
+                    ],
+                    "all_points_y": [
+                        74,
+                        45,
+                        35,
+                        37,
+                        60,
+                        85,
+                        91,
+                        87,
+                        74
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_7_0.jpg9743": {
+        "filename": "10_7_0.jpg",
+        "size": 9743,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        187,
+                        176,
+                        208,
+                        247,
+                        262,
+                        263,
+                        247,
+                        221,
+                        190,
+                        187
+                    ],
+                    "all_points_y": [
+                        253,
+                        213,
+                        187,
+                        196,
+                        219,
+                        245,
+                        260,
+                        264,
+                        261,
+                        253
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_7_1.jpg9356": {
+        "filename": "10_7_1.jpg",
+        "size": 9356,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        197,
+                        241,
+                        242,
+                        195,
+                        197,
+                        197
+                    ],
+                    "all_points_y": [
+                        159,
+                        169,
+                        139,
+                        141,
+                        156,
+                        159
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        182,
+                        189,
+                        242,
+                        265,
+                        234,
+                        211,
+                        192,
+                        182
+                    ],
+                    "all_points_y": [
+                        117,
+                        139,
+                        143,
+                        122,
+                        123,
+                        126,
+                        126,
+                        117
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_7_5.jpg11553": {
+        "filename": "10_7_5.jpg",
+        "size": 11553,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        113,
+                        118,
+                        131,
+                        158,
+                        169,
+                        153,
+                        147,
+                        131,
+                        119,
+                        114,
+                        113
+                    ],
+                    "all_points_y": [
+                        203,
+                        170,
+                        155,
+                        160,
+                        188,
+                        208,
+                        219,
+                        219,
+                        213,
+                        203,
+                        203
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        110,
+                        92,
+                        97,
+                        117,
+                        120,
+                        169,
+                        196,
+                        199,
+                        188,
+                        181,
+                        173,
+                        165,
+                        156,
+                        157,
+                        170,
+                        179,
+                        187,
+                        188,
+                        182,
+                        165,
+                        156,
+                        149,
+                        101,
+                        93,
+                        86,
+                        110
+                    ],
+                    "all_points_y": [
+                        175,
+                        165,
+                        151,
+                        153,
+                        168,
+                        197,
+                        211,
+                        222,
+                        222,
+                        210,
+                        203,
+                        203,
+                        200,
+                        207,
+                        210,
+                        217,
+                        224,
+                        230,
+                        233,
+                        226,
+                        219,
+                        214,
+                        176,
+                        168,
+                        163,
+                        175
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Pin"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        176,
+                        199,
+                        187,
+                        169,
+                        160,
+                        130,
+                        119,
+                        110,
+                        113,
+                        118,
+                        141,
+                        159,
+                        162,
+                        106,
+                        93,
+                        89,
+                        128
+                    ],
+                    "all_points_y": [
+                        130,
+                        132,
+                        170,
+                        196,
+                        191,
+                        159,
+                        152,
+                        152,
+                        183,
+                        202,
+                        213,
+                        217,
+                        221,
+                        230,
+                        222,
+                        181,
+                        170,
+                        130
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_8_4.jpg10871": {
+        "filename": "10_8_4.jpg",
+        "size": 10871,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        148,
+                        114,
+                        111,
+                        116,
+                        125,
+                        137,
+                        150,
+                        167,
+                        173,
+                        168,
+                        171,
+                        183,
+                        179,
+                        151,
+                        148
+                    ],
+                    "all_points_y": [
+                        207,
+                        216,
+                        235,
+                        234,
+                        222,
+                        214,
+                        213,
+                        227,
+                        241,
+                        252,
+                        257,
+                        241,
+                        225,
+                        207,
+                        207
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Washer"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        112,
+                        137,
+                        159,
+                        172,
+                        168,
+                        168,
+                        150,
+                        155,
+                        151,
+                        133,
+                        126,
+                        120,
+                        114,
+                        109,
+                        112
+                    ],
+                    "all_points_y": [
+                        236,
+                        216,
+                        218,
+                        234,
+                        255,
+                        272,
+                        274,
+                        253,
+                        239,
+                        237,
+                        252,
+                        264,
+                        264,
+                        262,
+                        236
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        122,
+                        137,
+                        150,
+                        153,
+                        148,
+                        139,
+                        120,
+                        122
+                    ],
+                    "all_points_y": [
+                        263,
+                        237,
+                        241,
+                        252,
+                        267,
+                        280,
+                        278,
+                        263
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_9_1.jpg10892": {
+        "filename": "10_9_1.jpg",
+        "size": 10892,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        151,
+                        174,
+                        211,
+                        245,
+                        227,
+                        182,
+                        151
+                    ],
+                    "all_points_y": [
+                        285,
+                        336,
+                        342,
+                        310,
+                        264,
+                        256,
+                        285
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_9_2.jpg9490": {
+        "filename": "10_9_2.jpg",
+        "size": 9490,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        124,
+                        124,
+                        141,
+                        171,
+                        200,
+                        192,
+                        161,
+                        128,
+                        124
+                    ],
+                    "all_points_y": [
+                        141,
+                        168,
+                        188,
+                        193,
+                        177,
+                        129,
+                        118,
+                        134,
+                        141
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        151,
+                        174,
+                        211,
+                        245,
+                        227,
+                        182,
+                        151
+                    ],
+                    "all_points_y": [
+                        35,
+                        86,
+                        92,
+                        60,
+                        14,
+                        6,
+                        35
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_10_5.jpg9682": {
+        "filename": "10_10_5.jpg",
+        "size": 9682,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        255,
+                        256,
+                        286,
+                        331,
+                        347,
+                        342,
+                        302,
+                        281,
+                        258,
+                        255
+                    ],
+                    "all_points_y": [
+                        152,
+                        189,
+                        205,
+                        202,
+                        189,
+                        153,
+                        142,
+                        142,
+                        157,
+                        152
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_10_6.jpg8606": {
+        "filename": "10_10_6.jpg",
+        "size": 8606,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        248,
+                        248,
+                        279,
+                        326,
+                        331,
+                        289,
+                        250,
+                        248
+                    ],
+                    "all_points_y": [
+                        77,
+                        106,
+                        118,
+                        108,
+                        74,
+                        87,
+                        75,
+                        77
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        263,
+                        267,
+                        304,
+                        316,
+                        312,
+                        288,
+                        274,
+                        265,
+                        263
+                    ],
+                    "all_points_y": [
+                        116,
+                        132,
+                        138,
+                        135,
+                        111,
+                        120,
+                        122,
+                        115,
+                        116
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_11_5.jpg10058": {
+        "filename": "10_11_5.jpg",
+        "size": 10058,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        5,
+                        6,
+                        36,
+                        81,
+                        97,
+                        92,
+                        52,
+                        31,
+                        8,
+                        5
+                    ],
+                    "all_points_y": [
+                        152,
+                        189,
+                        205,
+                        202,
+                        189,
+                        153,
+                        142,
+                        142,
+                        157,
+                        152
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_11_6.jpg8890": {
+        "filename": "10_11_6.jpg",
+        "size": 8890,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        13,
+                        17,
+                        54,
+                        66,
+                        62,
+                        38,
+                        24,
+                        15,
+                        13
+                    ],
+                    "all_points_y": [
+                        116,
+                        132,
+                        138,
+                        135,
+                        111,
+                        120,
+                        122,
+                        115,
+                        116
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_12_6.jpg9372": {
+        "filename": "10_12_6.jpg",
+        "size": 9372,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        245,
+                        268,
+                        303,
+                        331,
+                        303,
+                        269,
+                        245
+                    ],
+                    "all_points_y": [
+                        286,
+                        319,
+                        319,
+                        283,
+                        241,
+                        239,
+                        286
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10_12_7.jpg8842": {
+        "filename": "10_12_7.jpg",
+        "size": 8842,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        198,
+                        198,
+                        237,
+                        271,
+                        272,
+                        238,
+                        198
+                    ],
+                    "all_points_y": [
+                        182,
+                        137,
+                        117,
+                        137,
+                        189,
+                        210,
+                        182
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_13_6.jpg13011": {
+        "filename": "37_13_6.jpg",
+        "size": 13011,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        280,
+                        280,
+                        294,
+                        304,
+                        304,
+                        287,
+                        280,
+                        280
+                    ],
+                    "all_points_y": [
+                        146,
+                        132,
+                        129,
+                        139,
+                        150,
+                        155,
+                        148,
+                        146
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        271,
+                        271,
+                        294,
+                        315,
+                        313,
+                        287,
+                        271
+                    ],
+                    "all_points_y": [
+                        153,
+                        122,
+                        111,
+                        127,
+                        157,
+                        164,
+                        153
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_13_9.jpg14079": {
+        "filename": "37_13_9.jpg",
+        "size": 14079,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        285,
+                        285,
+                        266,
+                        266,
+                        273,
+                        283,
+                        285
+                    ],
+                    "all_points_y": [
+                        280,
+                        298,
+                        294,
+                        280,
+                        273,
+                        273,
+                        280
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        285,
+                        306,
+                        294,
+                        278,
+                        259,
+                        266,
+                        276,
+                        285,
+                        287,
+                        292,
+                        292,
+                        285
+                    ],
+                    "all_points_y": [
+                        292,
+                        289,
+                        264,
+                        261,
+                        273,
+                        278,
+                        268,
+                        266,
+                        271,
+                        285,
+                        294,
+                        292
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_13_10.jpg15612": {
+        "filename": "37_13_10.jpg",
+        "size": 15612,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        285,
+                        285,
+                        266,
+                        266,
+                        273,
+                        283,
+                        285
+                    ],
+                    "all_points_y": [
+                        30,
+                        48,
+                        44,
+                        30,
+                        23,
+                        23,
+                        30
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        285,
+                        306,
+                        294,
+                        278,
+                        259,
+                        266,
+                        276,
+                        285,
+                        287,
+                        292,
+                        292,
+                        285
+                    ],
+                    "all_points_y": [
+                        42,
+                        39,
+                        14,
+                        11,
+                        23,
+                        28,
+                        18,
+                        16,
+                        21,
+                        35,
+                        44,
+                        42
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_13_16.jpg12250": {
+        "filename": "37_13_16.jpg",
+        "size": 12250,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        266,
+                        266,
+                        290,
+                        297,
+                        280,
+                        266
+                    ],
+                    "all_points_y": [
+                        206,
+                        185,
+                        185,
+                        206,
+                        220,
+                        206
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_13_18.jpg15458": {
+        "filename": "37_13_18.jpg",
+        "size": 15458,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        266,
+                        290,
+                        301,
+                        285,
+                        264,
+                        266
+                    ],
+                    "all_points_y": [
+                        68,
+                        63,
+                        91,
+                        107,
+                        96,
+                        68
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_14_0.jpg15076": {
+        "filename": "37_14_0.jpg",
+        "size": 15076,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        290,
+                        293,
+                        309,
+                        327,
+                        330,
+                        327,
+                        316,
+                        300,
+                        293,
+                        290
+                    ],
+                    "all_points_y": [
+                        283,
+                        255,
+                        239,
+                        255,
+                        276,
+                        285,
+                        267,
+                        267,
+                        279,
+                        283
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        300,
+                        297,
+                        306,
+                        323,
+                        323,
+                        309,
+                        300
+                    ],
+                    "all_points_y": [
+                        302,
+                        274,
+                        267,
+                        281,
+                        309,
+                        311,
+                        302
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_14_1.jpg15326": {
+        "filename": "37_14_1.jpg",
+        "size": 15326,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        300,
+                        297,
+                        306,
+                        323,
+                        323,
+                        309,
+                        300
+                    ],
+                    "all_points_y": [
+                        52,
+                        24,
+                        17,
+                        31,
+                        59,
+                        61,
+                        52
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        288,
+                        279,
+                        274,
+                        286,
+                        288
+                    ],
+                    "all_points_y": [
+                        105,
+                        126,
+                        98,
+                        80,
+                        105
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        288,
+                        279,
+                        293,
+                        288
+                    ],
+                    "all_points_y": [
+                        110,
+                        140,
+                        152,
+                        110
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_14_5.jpg21023": {
+        "filename": "37_14_5.jpg",
+        "size": 21023,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        288,
+                        288,
+                        334,
+                        337,
+                        288,
+                        288
+                    ],
+                    "all_points_y": [
+                        335,
+                        319,
+                        319,
+                        345,
+                        345,
+                        335
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        288,
+                        293,
+                        332,
+                        334,
+                        288
+                    ],
+                    "all_points_y": [
+                        310,
+                        291,
+                        289,
+                        317,
+                        310
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        293,
+                        295,
+                        325,
+                        325,
+                        293
+                    ],
+                    "all_points_y": [
+                        284,
+                        268,
+                        273,
+                        287,
+                        284
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        281,
+                        281,
+                        297,
+                        297,
+                        281
+                    ],
+                    "all_points_y": [
+                        293,
+                        273,
+                        270,
+                        291,
+                        293
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_14_6.jpg19227": {
+        "filename": "37_14_6.jpg",
+        "size": 19227,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        30,
+                        30,
+                        44,
+                        54,
+                        54,
+                        37,
+                        30,
+                        30
+                    ],
+                    "all_points_y": [
+                        146,
+                        132,
+                        129,
+                        139,
+                        150,
+                        155,
+                        148,
+                        146
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        21,
+                        21,
+                        44,
+                        65,
+                        63,
+                        37,
+                        21
+                    ],
+                    "all_points_y": [
+                        153,
+                        122,
+                        111,
+                        127,
+                        157,
+                        164,
+                        153
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        288,
+                        288,
+                        334,
+                        337,
+                        288,
+                        288
+                    ],
+                    "all_points_y": [
+                        85,
+                        69,
+                        69,
+                        95,
+                        95,
+                        85
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        288,
+                        293,
+                        332,
+                        334,
+                        288
+                    ],
+                    "all_points_y": [
+                        60,
+                        41,
+                        39,
+                        67,
+                        60
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        293,
+                        295,
+                        325,
+                        325,
+                        293
+                    ],
+                    "all_points_y": [
+                        34,
+                        18,
+                        23,
+                        37,
+                        34
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        281,
+                        281,
+                        297,
+                        297,
+                        281
+                    ],
+                    "all_points_y": [
+                        43,
+                        23,
+                        20,
+                        41,
+                        43
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_14_9.jpg17254": {
+        "filename": "37_14_9.jpg",
+        "size": 17254,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        35,
+                        35,
+                        16,
+                        16,
+                        23,
+                        33,
+                        35
+                    ],
+                    "all_points_y": [
+                        280,
+                        298,
+                        294,
+                        280,
+                        273,
+                        273,
+                        280
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        35,
+                        56,
+                        44,
+                        28,
+                        9,
+                        16,
+                        26,
+                        35,
+                        37,
+                        42,
+                        42,
+                        35
+                    ],
+                    "all_points_y": [
+                        292,
+                        289,
+                        264,
+                        261,
+                        273,
+                        278,
+                        268,
+                        266,
+                        271,
+                        285,
+                        294,
+                        292
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_14_10.jpg15511": {
+        "filename": "37_14_10.jpg",
+        "size": 15511,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        35,
+                        35,
+                        16,
+                        16,
+                        23,
+                        33,
+                        35
+                    ],
+                    "all_points_y": [
+                        30,
+                        48,
+                        44,
+                        30,
+                        23,
+                        23,
+                        30
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        35,
+                        56,
+                        44,
+                        28,
+                        9,
+                        16,
+                        26,
+                        35,
+                        37,
+                        42,
+                        42,
+                        35
+                    ],
+                    "all_points_y": [
+                        42,
+                        39,
+                        14,
+                        11,
+                        23,
+                        28,
+                        18,
+                        16,
+                        21,
+                        35,
+                        44,
+                        42
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_14_16.jpg12579": {
+        "filename": "37_14_16.jpg",
+        "size": 12579,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        16,
+                        16,
+                        40,
+                        47,
+                        30,
+                        16
+                    ],
+                    "all_points_y": [
+                        206,
+                        185,
+                        185,
+                        206,
+                        220,
+                        206
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_14_18.jpg13997": {
+        "filename": "37_14_18.jpg",
+        "size": 13997,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        16,
+                        40,
+                        51,
+                        35,
+                        14,
+                        16
+                    ],
+                    "all_points_y": [
+                        68,
+                        63,
+                        91,
+                        107,
+                        96,
+                        68
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_15_0.jpg11517": {
+        "filename": "37_15_0.jpg",
+        "size": 11517,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        40,
+                        43,
+                        59,
+                        77,
+                        80,
+                        77,
+                        66,
+                        50,
+                        43,
+                        40
+                    ],
+                    "all_points_y": [
+                        283,
+                        255,
+                        239,
+                        255,
+                        276,
+                        285,
+                        267,
+                        267,
+                        279,
+                        283
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        50,
+                        47,
+                        56,
+                        73,
+                        73,
+                        59,
+                        50
+                    ],
+                    "all_points_y": [
+                        302,
+                        274,
+                        267,
+                        281,
+                        309,
+                        311,
+                        302
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_15_1.jpg12733": {
+        "filename": "37_15_1.jpg",
+        "size": 12733,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        50,
+                        47,
+                        56,
+                        73,
+                        73,
+                        59,
+                        50
+                    ],
+                    "all_points_y": [
+                        52,
+                        24,
+                        17,
+                        31,
+                        59,
+                        61,
+                        52
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        38,
+                        29,
+                        24,
+                        36,
+                        38
+                    ],
+                    "all_points_y": [
+                        105,
+                        126,
+                        98,
+                        80,
+                        105
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        38,
+                        29,
+                        43,
+                        38
+                    ],
+                    "all_points_y": [
+                        110,
+                        140,
+                        152,
+                        110
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_15_5.jpg19501": {
+        "filename": "37_15_5.jpg",
+        "size": 19501,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        38,
+                        38,
+                        84,
+                        87,
+                        38,
+                        38
+                    ],
+                    "all_points_y": [
+                        335,
+                        319,
+                        319,
+                        345,
+                        345,
+                        335
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        38,
+                        43,
+                        82,
+                        84,
+                        38
+                    ],
+                    "all_points_y": [
+                        310,
+                        291,
+                        289,
+                        317,
+                        310
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        43,
+                        45,
+                        75,
+                        75,
+                        43
+                    ],
+                    "all_points_y": [
+                        284,
+                        268,
+                        273,
+                        287,
+                        284
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        31,
+                        31,
+                        47,
+                        47,
+                        31
+                    ],
+                    "all_points_y": [
+                        293,
+                        273,
+                        270,
+                        291,
+                        293
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_15_6.jpg17253": {
+        "filename": "37_15_6.jpg",
+        "size": 17253,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        38,
+                        38,
+                        84,
+                        87,
+                        38,
+                        38
+                    ],
+                    "all_points_y": [
+                        85,
+                        69,
+                        69,
+                        95,
+                        95,
+                        85
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        38,
+                        43,
+                        82,
+                        84,
+                        38
+                    ],
+                    "all_points_y": [
+                        60,
+                        41,
+                        39,
+                        67,
+                        60
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        43,
+                        45,
+                        75,
+                        75,
+                        43
+                    ],
+                    "all_points_y": [
+                        34,
+                        18,
+                        23,
+                        37,
+                        34
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        31,
+                        31,
+                        47,
+                        47,
+                        31
+                    ],
+                    "all_points_y": [
+                        43,
+                        23,
+                        20,
+                        41,
+                        43
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_15_7.jpg16781": {
+        "filename": "37_15_7.jpg",
+        "size": 16781,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        238,
+                        224,
+                        251,
+                        279,
+                        289,
+                        272,
+                        238
+                    ],
+                    "all_points_y": [
+                        272,
+                        234,
+                        221,
+                        230,
+                        255,
+                        276,
+                        272
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_15_8.jpg19500": {
+        "filename": "37_15_8.jpg",
+        "size": 19500,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        296,
+                        298,
+                        316,
+                        307,
+                        296
+                    ],
+                    "all_points_y": [
+                        119,
+                        161,
+                        156,
+                        110,
+                        119
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        186,
+                        189,
+                        212,
+                        207,
+                        186
+                    ],
+                    "all_points_y": [
+                        124,
+                        168,
+                        166,
+                        114,
+                        124
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        184,
+                        170,
+                        170,
+                        184,
+                        184
+                    ],
+                    "all_points_y": [
+                        154,
+                        154,
+                        131,
+                        124,
+                        154
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_15_17.jpg13891": {
+        "filename": "37_15_17.jpg",
+        "size": 13891,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        203,
+                        200,
+                        212,
+                        210,
+                        203
+                    ],
+                    "all_points_y": [
+                        248,
+                        209,
+                        213,
+                        248,
+                        248
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Pin"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        279,
+                        265,
+                        282,
+                        303,
+                        303,
+                        284,
+                        279
+                    ],
+                    "all_points_y": [
+                        332,
+                        309,
+                        295,
+                        295,
+                        325,
+                        339,
+                        332
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        247,
+                        247,
+                        268,
+                        279,
+                        279,
+                        261,
+                        247
+                    ],
+                    "all_points_y": [
+                        255,
+                        271,
+                        276,
+                        267,
+                        255,
+                        262,
+                        255
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        249,
+                        249,
+                        275,
+                        275,
+                        249
+                    ],
+                    "all_points_y": [
+                        274,
+                        283,
+                        281,
+                        274,
+                        274
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_15_18.jpg13229": {
+        "filename": "37_15_18.jpg",
+        "size": 13229,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        279,
+                        265,
+                        282,
+                        303,
+                        303,
+                        284,
+                        279
+                    ],
+                    "all_points_y": [
+                        82,
+                        59,
+                        45,
+                        45,
+                        75,
+                        89,
+                        82
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        247,
+                        247,
+                        268,
+                        279,
+                        279,
+                        261,
+                        247
+                    ],
+                    "all_points_y": [
+                        5,
+                        21,
+                        26,
+                        17,
+                        5,
+                        12,
+                        5
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        249,
+                        249,
+                        275,
+                        275,
+                        249
+                    ],
+                    "all_points_y": [
+                        24,
+                        33,
+                        31,
+                        24,
+                        24
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_16_8.jpg14447": {
+        "filename": "37_16_8.jpg",
+        "size": 14447,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        46,
+                        48,
+                        66,
+                        57,
+                        46
+                    ],
+                    "all_points_y": [
+                        119,
+                        161,
+                        156,
+                        110,
+                        119
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_16_17.jpg14019": {
+        "filename": "37_16_17.jpg",
+        "size": 14019,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        29,
+                        15,
+                        32,
+                        53,
+                        53,
+                        34,
+                        29
+                    ],
+                    "all_points_y": [
+                        332,
+                        309,
+                        295,
+                        295,
+                        325,
+                        339,
+                        332
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37_16_18.jpg13399": {
+        "filename": "37_16_18.jpg",
+        "size": 13399,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        29,
+                        15,
+                        32,
+                        53,
+                        53,
+                        34,
+                        29
+                    ],
+                    "all_points_y": [
+                        82,
+                        59,
+                        45,
+                        45,
+                        75,
+                        89,
+                        82
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_11_6.jpg10721": {
+        "filename": "44_11_6.jpg",
+        "size": 10721,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        196,
+                        246,
+                        232,
+                        189,
+                        193,
+                        196
+                    ],
+                    "all_points_y": [
+                        278,
+                        230,
+                        226,
+                        281,
+                        288,
+                        278
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Pin"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        326,
+                        305,
+                        321,
+                        342,
+                        326
+                    ],
+                    "all_points_y": [
+                        265,
+                        258,
+                        233,
+                        242,
+                        265
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        296,
+                        324,
+                        338,
+                        326,
+                        319,
+                        305,
+                        296
+                    ],
+                    "all_points_y": [
+                        249,
+                        212,
+                        221,
+                        237,
+                        228,
+                        258,
+                        249
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        299,
+                        280,
+                        294,
+                        310,
+                        299
+                    ],
+                    "all_points_y": [
+                        239,
+                        228,
+                        210,
+                        219,
+                        239
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        223,
+                        246,
+                        267,
+                        248,
+                        223
+                    ],
+                    "all_points_y": [
+                        271,
+                        235,
+                        246,
+                        285,
+                        271
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        223,
+                        207,
+                        218,
+                        237,
+                        223
+                    ],
+                    "all_points_y": [
+                        260,
+                        246,
+                        226,
+                        242,
+                        260
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_11_7.jpg13377": {
+        "filename": "44_11_7.jpg",
+        "size": 13377,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        227,
+                        220,
+                        230,
+                        245,
+                        251,
+                        244,
+                        228,
+                        227
+                    ],
+                    "all_points_y": [
+                        169,
+                        155,
+                        145,
+                        145,
+                        158,
+                        176,
+                        173,
+                        169
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        206,
+                        265,
+                        276,
+                        214,
+                        206
+                    ],
+                    "all_points_y": [
+                        145,
+                        182,
+                        176,
+                        143,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Pin"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        221,
+                        205,
+                        222,
+                        247,
+                        255,
+                        247,
+                        221
+                    ],
+                    "all_points_y": [
+                        173,
+                        152,
+                        134,
+                        135,
+                        149,
+                        174,
+                        173
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        287,
+                        310,
+                        324,
+                        305,
+                        289,
+                        287
+                    ],
+                    "all_points_y": [
+                        137,
+                        139,
+                        161,
+                        162,
+                        143,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        319,
+                        332,
+                        344,
+                        334,
+                        319
+                    ],
+                    "all_points_y": [
+                        139,
+                        114,
+                        123,
+                        147,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        118,
+                        116,
+                        121,
+                        142,
+                        145,
+                        118
+                    ],
+                    "all_points_y": [
+                        184,
+                        175,
+                        169,
+                        169,
+                        182,
+                        184
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        112,
+                        107,
+                        108,
+                        117,
+                        119,
+                        131,
+                        145,
+                        145,
+                        154,
+                        154,
+                        152,
+                        128,
+                        112
+                    ],
+                    "all_points_y": [
+                        211,
+                        205,
+                        186,
+                        176,
+                        184,
+                        185,
+                        183,
+                        175,
+                        179,
+                        189,
+                        194,
+                        221,
+                        211
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        97,
+                        91,
+                        91,
+                        104,
+                        104,
+                        113,
+                        120,
+                        128,
+                        97
+                    ],
+                    "all_points_y": [
+                        183,
+                        177,
+                        158,
+                        153,
+                        159,
+                        159,
+                        159,
+                        156,
+                        183
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        129,
+                        128,
+                        118,
+                        104,
+                        100,
+                        101,
+                        106,
+                        104,
+                        120,
+                        129,
+                        129
+                    ],
+                    "all_points_y": [
+                        151,
+                        143,
+                        141,
+                        143,
+                        147,
+                        152,
+                        153,
+                        158,
+                        159,
+                        153,
+                        151
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        221,
+                        210,
+                        205,
+                        208,
+                        217,
+                        217,
+                        225,
+                        221
+                    ],
+                    "all_points_y": [
+                        311,
+                        307,
+                        309,
+                        335,
+                        335,
+                        327,
+                        322,
+                        311
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        221,
+                        227,
+                        238,
+                        234,
+                        214,
+                        211,
+                        221
+                    ],
+                    "all_points_y": [
+                        308,
+                        299,
+                        296,
+                        282,
+                        286,
+                        307,
+                        308
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        226,
+                        224,
+                        250,
+                        254,
+                        226
+                    ],
+                    "all_points_y": [
+                        324,
+                        301,
+                        298,
+                        321,
+                        324
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_11_8.jpg12279": {
+        "filename": "44_11_8.jpg",
+        "size": 12279,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        221,
+                        210,
+                        205,
+                        208,
+                        217,
+                        217,
+                        225,
+                        221
+                    ],
+                    "all_points_y": [
+                        61,
+                        57,
+                        59,
+                        85,
+                        85,
+                        77,
+                        72,
+                        61
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        221,
+                        227,
+                        238,
+                        234,
+                        214,
+                        211,
+                        221
+                    ],
+                    "all_points_y": [
+                        58,
+                        49,
+                        46,
+                        32,
+                        36,
+                        57,
+                        58
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        226,
+                        224,
+                        250,
+                        254,
+                        226
+                    ],
+                    "all_points_y": [
+                        74,
+                        51,
+                        48,
+                        71,
+                        74
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        223,
+                        219,
+                        228,
+                        238,
+                        257,
+                        262,
+                        247,
+                        242,
+                        223
+                    ],
+                    "all_points_y": [
+                        103,
+                        77,
+                        76,
+                        78,
+                        70,
+                        86,
+                        103,
+                        107,
+                        103
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_12_6.jpg13382": {
+        "filename": "44_12_6.jpg",
+        "size": 13382,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        252,
+                        273,
+                        280,
+                        268,
+                        264,
+                        259,
+                        252
+                    ],
+                    "all_points_y": [
+                        223,
+                        226,
+                        171,
+                        168,
+                        201,
+                        219,
+                        223
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        101,
+                        81,
+                        120,
+                        131,
+                        126,
+                        101,
+                        101
+                    ],
+                    "all_points_y": [
+                        134,
+                        118,
+                        82,
+                        95,
+                        125,
+                        139,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        88,
+                        67,
+                        97,
+                        108,
+                        99,
+                        88
+                    ],
+                    "all_points_y": [
+                        104,
+                        86,
+                        63,
+                        86,
+                        95,
+                        104
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        71,
+                        88,
+                        104,
+                        110,
+                        94,
+                        83,
+                        71
+                    ],
+                    "all_points_y": [
+                        274,
+                        288,
+                        271,
+                        237,
+                        239,
+                        260,
+                        274
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        76,
+                        55,
+                        71,
+                        92,
+                        76
+                    ],
+                    "all_points_y": [
+                        265,
+                        258,
+                        233,
+                        242,
+                        265
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        46,
+                        74,
+                        88,
+                        76,
+                        69,
+                        55,
+                        46
+                    ],
+                    "all_points_y": [
+                        249,
+                        212,
+                        221,
+                        237,
+                        228,
+                        258,
+                        249
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        49,
+                        30,
+                        44,
+                        60,
+                        49
+                    ],
+                    "all_points_y": [
+                        239,
+                        228,
+                        210,
+                        219,
+                        239
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_12_7.jpg14847": {
+        "filename": "44_12_7.jpg",
+        "size": 14847,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        162,
+                        181,
+                        194,
+                        194,
+                        181,
+                        173,
+                        162
+                    ],
+                    "all_points_y": [
+                        199,
+                        158,
+                        160,
+                        177,
+                        199,
+                        203,
+                        199
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        37,
+                        60,
+                        74,
+                        55,
+                        39,
+                        37
+                    ],
+                    "all_points_y": [
+                        137,
+                        139,
+                        161,
+                        162,
+                        143,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        69,
+                        82,
+                        94,
+                        84,
+                        69
+                    ],
+                    "all_points_y": [
+                        139,
+                        114,
+                        123,
+                        147,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        81,
+                        99,
+                        117,
+                        120,
+                        105,
+                        82,
+                        81
+                    ],
+                    "all_points_y": [
+                        153,
+                        118,
+                        121,
+                        135,
+                        166,
+                        159,
+                        153
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        149,
+                        165,
+                        185,
+                        198,
+                        199,
+                        178,
+                        149
+                    ],
+                    "all_points_y": [
+                        280,
+                        282,
+                        275,
+                        281,
+                        303,
+                        307,
+                        280
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        181,
+                        178,
+                        150,
+                        152,
+                        164,
+                        181
+                    ],
+                    "all_points_y": [
+                        275,
+                        261,
+                        265,
+                        279,
+                        280,
+                        275
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_12_8.jpg11972": {
+        "filename": "44_12_8.jpg",
+        "size": 11972,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        149,
+                        165,
+                        185,
+                        198,
+                        199,
+                        178,
+                        149
+                    ],
+                    "all_points_y": [
+                        30,
+                        32,
+                        25,
+                        31,
+                        53,
+                        57,
+                        30
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        181,
+                        178,
+                        150,
+                        152,
+                        164,
+                        181
+                    ],
+                    "all_points_y": [
+                        25,
+                        11,
+                        15,
+                        29,
+                        30,
+                        25
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_13_6.jpg12321": {
+        "filename": "44_13_6.jpg",
+        "size": 12321,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        2,
+                        23,
+                        30,
+                        18,
+                        14,
+                        9,
+                        2
+                    ],
+                    "all_points_y": [
+                        223,
+                        226,
+                        171,
+                        168,
+                        201,
+                        219,
+                        223
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Head"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_15_5.jpg10677": {
+        "filename": "44_15_5.jpg",
+        "size": 10677,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        173,
+                        161,
+                        159,
+                        168,
+                        173
+                    ],
+                    "all_points_y": [
+                        107,
+                        114,
+                        93,
+                        89,
+                        107
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        173,
+                        173,
+                        200,
+                        210,
+                        173,
+                        173
+                    ],
+                    "all_points_y": [
+                        116,
+                        82,
+                        77,
+                        119,
+                        126,
+                        116
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_15_7.jpg13582": {
+        "filename": "44_15_7.jpg",
+        "size": 13582,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        223,
+                        226,
+                        212,
+                        223
+                    ],
+                    "all_points_y": [
+                        337,
+                        346,
+                        344,
+                        337
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        230,
+                        230,
+                        264,
+                        264,
+                        230
+                    ],
+                    "all_points_y": [
+                        333,
+                        349,
+                        346,
+                        328,
+                        333
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        221,
+                        221,
+                        258,
+                        258,
+                        228,
+                        221
+                    ],
+                    "all_points_y": [
+                        269,
+                        230,
+                        227,
+                        273,
+                        271,
+                        269
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        219,
+                        219,
+                        200,
+                        203,
+                        219
+                    ],
+                    "all_points_y": [
+                        260,
+                        232,
+                        243,
+                        262,
+                        260
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_15_8.jpg11186": {
+        "filename": "44_15_8.jpg",
+        "size": 11186,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        310,
+                        306,
+                        276,
+                        276,
+                        306,
+                        310
+                    ],
+                    "all_points_y": [
+                        220,
+                        177,
+                        186,
+                        220,
+                        220,
+                        220
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        274,
+                        258,
+                        258,
+                        271,
+                        274
+                    ],
+                    "all_points_y": [
+                        213,
+                        220,
+                        195,
+                        186,
+                        213
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        223,
+                        226,
+                        212,
+                        223
+                    ],
+                    "all_points_y": [
+                        87,
+                        96,
+                        94,
+                        87
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        230,
+                        230,
+                        264,
+                        264,
+                        230
+                    ],
+                    "all_points_y": [
+                        83,
+                        99,
+                        96,
+                        78,
+                        83
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        264,
+                        264,
+                        232,
+                        232,
+                        267,
+                        264
+                    ],
+                    "all_points_y": [
+                        170,
+                        135,
+                        140,
+                        179,
+                        172,
+                        170
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        226,
+                        228,
+                        232,
+                        219,
+                        216,
+                        226
+                    ],
+                    "all_points_y": [
+                        147,
+                        147,
+                        172,
+                        177,
+                        149,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        248,
+                        244,
+                        271,
+                        285,
+                        248,
+                        248
+                    ],
+                    "all_points_y": [
+                        314,
+                        280,
+                        273,
+                        318,
+                        318,
+                        314
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        246,
+                        228,
+                        228,
+                        244,
+                        246
+                    ],
+                    "all_points_y": [
+                        309,
+                        312,
+                        284,
+                        284,
+                        309
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_15_9.jpg10674": {
+        "filename": "44_15_9.jpg",
+        "size": 10674,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        248,
+                        244,
+                        271,
+                        285,
+                        248,
+                        248
+                    ],
+                    "all_points_y": [
+                        64,
+                        30,
+                        23,
+                        68,
+                        68,
+                        64
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        246,
+                        228,
+                        228,
+                        244,
+                        246
+                    ],
+                    "all_points_y": [
+                        59,
+                        62,
+                        34,
+                        34,
+                        59
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        255,
+                        253,
+                        283,
+                        292,
+                        258,
+                        255
+                    ],
+                    "all_points_y": [
+                        144,
+                        105,
+                        103,
+                        144,
+                        146,
+                        144
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        253,
+                        235,
+                        235,
+                        251,
+                        253
+                    ],
+                    "all_points_y": [
+                        137,
+                        142,
+                        117,
+                        114,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        258,
+                        258,
+                        287,
+                        292,
+                        267,
+                        258,
+                        258
+                    ],
+                    "all_points_y": [
+                        222,
+                        185,
+                        185,
+                        226,
+                        229,
+                        231,
+                        222
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        253,
+                        242,
+                        239,
+                        255,
+                        253
+                    ],
+                    "all_points_y": [
+                        217,
+                        220,
+                        199,
+                        194,
+                        217
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_15_11.jpg10090": {
+        "filename": "44_15_11.jpg",
+        "size": 10090,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        308,
+                        306,
+                        326,
+                        335,
+                        308
+                    ],
+                    "all_points_y": [
+                        225,
+                        186,
+                        186,
+                        223,
+                        225
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        306,
+                        290,
+                        285,
+                        303,
+                        306
+                    ],
+                    "all_points_y": [
+                        214,
+                        218,
+                        196,
+                        189,
+                        214
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_16_1.jpg11887": {
+        "filename": "44_16_1.jpg",
+        "size": 11887,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        140,
+                        129,
+                        124,
+                        140,
+                        140
+                    ],
+                    "all_points_y": [
+                        345,
+                        347,
+                        327,
+                        324,
+                        345
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_16_2.jpg10597": {
+        "filename": "44_16_2.jpg",
+        "size": 10597,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        156,
+                        138,
+                        133,
+                        147,
+                        156
+                    ],
+                    "all_points_y": [
+                        210,
+                        214,
+                        187,
+                        187,
+                        210
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        154,
+                        191,
+                        177,
+                        149,
+                        154
+                    ],
+                    "all_points_y": [
+                        214,
+                        214,
+                        159,
+                        175,
+                        214
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        143,
+                        143,
+                        175,
+                        179,
+                        143
+                    ],
+                    "all_points_y": [
+                        102,
+                        79,
+                        77,
+                        104,
+                        102
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        140,
+                        129,
+                        124,
+                        140,
+                        140
+                    ],
+                    "all_points_y": [
+                        95,
+                        97,
+                        77,
+                        74,
+                        95
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_16_4.jpg10227": {
+        "filename": "44_16_4.jpg",
+        "size": 10227,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        310,
+                        305,
+                        326,
+                        330,
+                        312,
+                        310
+                    ],
+                    "all_points_y": [
+                        316,
+                        298,
+                        293,
+                        316,
+                        323,
+                        316
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        298,
+                        296,
+                        328,
+                        339,
+                        319,
+                        298
+                    ],
+                    "all_points_y": [
+                        327,
+                        291,
+                        279,
+                        311,
+                        332,
+                        327
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_16_5.jpg10166": {
+        "filename": "44_16_5.jpg",
+        "size": 10166,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        310,
+                        305,
+                        326,
+                        330,
+                        312,
+                        310
+                    ],
+                    "all_points_y": [
+                        66,
+                        48,
+                        43,
+                        66,
+                        73,
+                        66
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        298,
+                        296,
+                        328,
+                        339,
+                        319,
+                        298
+                    ],
+                    "all_points_y": [
+                        77,
+                        41,
+                        29,
+                        61,
+                        82,
+                        77
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        314,
+                        314,
+                        337,
+                        342,
+                        321,
+                        314
+                    ],
+                    "all_points_y": [
+                        185,
+                        167,
+                        158,
+                        178,
+                        187,
+                        185
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        301,
+                        301,
+                        321,
+                        349,
+                        342,
+                        317,
+                        301
+                    ],
+                    "all_points_y": [
+                        190,
+                        158,
+                        148,
+                        162,
+                        192,
+                        199,
+                        190
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_16_7.jpg14225": {
+        "filename": "44_16_7.jpg",
+        "size": 14225,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        243,
+                        243,
+                        280,
+                        287,
+                        243
+                    ],
+                    "all_points_y": [
+                        260,
+                        246,
+                        243,
+                        257,
+                        260
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        243,
+                        243,
+                        225,
+                        225,
+                        243
+                    ],
+                    "all_points_y": [
+                        262,
+                        250,
+                        257,
+                        264,
+                        262
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        236,
+                        236,
+                        275,
+                        278,
+                        236
+                    ],
+                    "all_points_y": [
+                        202,
+                        166,
+                        166,
+                        205,
+                        202
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        234,
+                        220,
+                        216,
+                        234,
+                        234
+                    ],
+                    "all_points_y": [
+                        193,
+                        200,
+                        177,
+                        173,
+                        193
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_16_8.jpg11822": {
+        "filename": "44_16_8.jpg",
+        "size": 11822,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        305,
+                        271,
+                        271,
+                        298,
+                        305
+                    ],
+                    "all_points_y": [
+                        337,
+                        341,
+                        305,
+                        296,
+                        337
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        269,
+                        255,
+                        248,
+                        266,
+                        269
+                    ],
+                    "all_points_y": [
+                        325,
+                        339,
+                        312,
+                        305,
+                        325
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        264,
+                        264,
+                        301,
+                        301,
+                        259,
+                        264
+                    ],
+                    "all_points_y": [
+                        250,
+                        261,
+                        261,
+                        213,
+                        218,
+                        250
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        259,
+                        246,
+                        241,
+                        255,
+                        259
+                    ],
+                    "all_points_y": [
+                        254,
+                        259,
+                        234,
+                        227,
+                        254
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        252,
+                        232,
+                        230,
+                        248,
+                        252
+                    ],
+                    "all_points_y": [
+                        110,
+                        117,
+                        87,
+                        85,
+                        110
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        255,
+                        248,
+                        280,
+                        287,
+                        255
+                    ],
+                    "all_points_y": [
+                        117,
+                        76,
+                        76,
+                        119,
+                        117
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        243,
+                        243,
+                        225,
+                        225,
+                        243
+                    ],
+                    "all_points_y": [
+                        12,
+                        0,
+                        7,
+                        14,
+                        12
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        282,
+                        282,
+                        252,
+                        257,
+                        282
+                    ],
+                    "all_points_y": [
+                        206,
+                        167,
+                        172,
+                        211,
+                        206
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        252,
+                        255,
+                        243,
+                        243,
+                        252,
+                        252
+                    ],
+                    "all_points_y": [
+                        199,
+                        209,
+                        209,
+                        186,
+                        177,
+                        199
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        188,
+                        188,
+                        214,
+                        220,
+                        211,
+                        188
+                    ],
+                    "all_points_y": [
+                        94,
+                        113,
+                        115,
+                        110,
+                        85,
+                        94
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        184,
+                        184,
+                        209,
+                        232,
+                        223,
+                        204,
+                        184
+                    ],
+                    "all_points_y": [
+                        117,
+                        154,
+                        151,
+                        142,
+                        110,
+                        119,
+                        117
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        60,
+                        56,
+                        26,
+                        26,
+                        56,
+                        60
+                    ],
+                    "all_points_y": [
+                        220,
+                        177,
+                        186,
+                        220,
+                        220,
+                        220
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        24,
+                        8,
+                        8,
+                        21,
+                        24
+                    ],
+                    "all_points_y": [
+                        213,
+                        220,
+                        195,
+                        186,
+                        213
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_16_9.jpg10949": {
+        "filename": "44_16_9.jpg",
+        "size": 10949,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        305,
+                        271,
+                        271,
+                        298,
+                        305
+                    ],
+                    "all_points_y": [
+                        87,
+                        91,
+                        55,
+                        46,
+                        87
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        269,
+                        255,
+                        248,
+                        266,
+                        269
+                    ],
+                    "all_points_y": [
+                        75,
+                        89,
+                        62,
+                        55,
+                        75
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        5,
+                        3,
+                        33,
+                        42,
+                        8,
+                        5
+                    ],
+                    "all_points_y": [
+                        144,
+                        105,
+                        103,
+                        144,
+                        146,
+                        144
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        8,
+                        8,
+                        37,
+                        42,
+                        17,
+                        8,
+                        8
+                    ],
+                    "all_points_y": [
+                        222,
+                        185,
+                        185,
+                        226,
+                        229,
+                        231,
+                        222
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_16_11.jpg10523": {
+        "filename": "44_16_11.jpg",
+        "size": 10523,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        58,
+                        56,
+                        76,
+                        85,
+                        58
+                    ],
+                    "all_points_y": [
+                        225,
+                        186,
+                        186,
+                        223,
+                        225
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        56,
+                        40,
+                        35,
+                        53,
+                        56
+                    ],
+                    "all_points_y": [
+                        214,
+                        218,
+                        196,
+                        189,
+                        214
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_17_4.jpg10037": {
+        "filename": "44_17_4.jpg",
+        "size": 10037,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        60,
+                        55,
+                        76,
+                        80,
+                        62,
+                        60
+                    ],
+                    "all_points_y": [
+                        316,
+                        298,
+                        293,
+                        316,
+                        323,
+                        316
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        48,
+                        46,
+                        78,
+                        89,
+                        69,
+                        48
+                    ],
+                    "all_points_y": [
+                        327,
+                        291,
+                        279,
+                        311,
+                        332,
+                        327
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_17_5.jpg10927": {
+        "filename": "44_17_5.jpg",
+        "size": 10927,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        60,
+                        55,
+                        76,
+                        80,
+                        62,
+                        60
+                    ],
+                    "all_points_y": [
+                        66,
+                        48,
+                        43,
+                        66,
+                        73,
+                        66
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        48,
+                        46,
+                        78,
+                        89,
+                        69,
+                        48
+                    ],
+                    "all_points_y": [
+                        77,
+                        41,
+                        29,
+                        61,
+                        82,
+                        77
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        64,
+                        64,
+                        87,
+                        92,
+                        71,
+                        64
+                    ],
+                    "all_points_y": [
+                        185,
+                        167,
+                        158,
+                        178,
+                        187,
+                        185
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        51,
+                        51,
+                        71,
+                        99,
+                        92,
+                        67,
+                        51
+                    ],
+                    "all_points_y": [
+                        190,
+                        158,
+                        148,
+                        162,
+                        192,
+                        199,
+                        190
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_17_7.jpg14176": {
+        "filename": "44_17_7.jpg",
+        "size": 14176,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        99,
+                        103,
+                        128,
+                        149,
+                        142,
+                        128,
+                        110,
+                        105,
+                        99
+                    ],
+                    "all_points_y": [
+                        310,
+                        328,
+                        326,
+                        305,
+                        305,
+                        321,
+                        321,
+                        308,
+                        310
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        110,
+                        115,
+                        138,
+                        142,
+                        110
+                    ],
+                    "all_points_y": [
+                        308,
+                        319,
+                        310,
+                        303,
+                        308
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        112,
+                        103,
+                        115,
+                        128,
+                        128,
+                        121,
+                        112
+                    ],
+                    "all_points_y": [
+                        232,
+                        225,
+                        207,
+                        209,
+                        227,
+                        232,
+                        232
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        87,
+                        89,
+                        115,
+                        140,
+                        144,
+                        117,
+                        87
+                    ],
+                    "all_points_y": [
+                        239,
+                        205,
+                        193,
+                        205,
+                        230,
+                        250,
+                        239
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_17_8.jpg12178": {
+        "filename": "44_17_8.jpg",
+        "size": 12178,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        218,
+                        220,
+                        234,
+                        241,
+                        234,
+                        222,
+                        218
+                    ],
+                    "all_points_y": [
+                        186,
+                        167,
+                        167,
+                        183,
+                        193,
+                        193,
+                        186
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        199,
+                        208,
+                        234,
+                        250,
+                        238,
+                        208,
+                        199
+                    ],
+                    "all_points_y": [
+                        181,
+                        158,
+                        154,
+                        172,
+                        199,
+                        199,
+                        181
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        133,
+                        128,
+                        149,
+                        156,
+                        154,
+                        133
+                    ],
+                    "all_points_y": [
+                        286,
+                        266,
+                        259,
+                        273,
+                        286,
+                        286
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        126,
+                        112,
+                        133,
+                        156,
+                        160,
+                        142,
+                        126
+                    ],
+                    "all_points_y": [
+                        296,
+                        282,
+                        252,
+                        252,
+                        284,
+                        296,
+                        296
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        99,
+                        103,
+                        128,
+                        149,
+                        142,
+                        128,
+                        110,
+                        105,
+                        99
+                    ],
+                    "all_points_y": [
+                        60,
+                        78,
+                        76,
+                        55,
+                        55,
+                        71,
+                        71,
+                        58,
+                        60
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        110,
+                        115,
+                        138,
+                        142,
+                        110
+                    ],
+                    "all_points_y": [
+                        58,
+                        69,
+                        60,
+                        53,
+                        58
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        117,
+                        117,
+                        135,
+                        149,
+                        133,
+                        117
+                    ],
+                    "all_points_y": [
+                        147,
+                        129,
+                        122,
+                        142,
+                        149,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        110,
+                        105,
+                        128,
+                        154,
+                        158,
+                        128,
+                        110
+                    ],
+                    "all_points_y": [
+                        156,
+                        124,
+                        106,
+                        108,
+                        142,
+                        158,
+                        156
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        55,
+                        21,
+                        21,
+                        48,
+                        55
+                    ],
+                    "all_points_y": [
+                        337,
+                        341,
+                        305,
+                        296,
+                        337
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        14,
+                        14,
+                        51,
+                        51,
+                        9,
+                        14
+                    ],
+                    "all_points_y": [
+                        250,
+                        261,
+                        261,
+                        213,
+                        218,
+                        250
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        32,
+                        32,
+                        2,
+                        7,
+                        32
+                    ],
+                    "all_points_y": [
+                        206,
+                        167,
+                        172,
+                        211,
+                        206
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_17_9.jpg11629": {
+        "filename": "44_17_9.jpg",
+        "size": 11629,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        142,
+                        144,
+                        165,
+                        170,
+                        156,
+                        142
+                    ],
+                    "all_points_y": [
+                        201,
+                        178,
+                        176,
+                        199,
+                        204,
+                        201
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        149,
+                        172,
+                        165,
+                        138,
+                        121,
+                        128
+                    ],
+                    "all_points_y": [
+                        201,
+                        220,
+                        201,
+                        169,
+                        167,
+                        192,
+                        201
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        130,
+                        119,
+                        146,
+                        174,
+                        164,
+                        123,
+                        130
+                    ],
+                    "all_points_y": [
+                        126,
+                        91,
+                        78,
+                        89,
+                        133,
+                        128,
+                        126
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        133,
+                        151,
+                        160,
+                        158,
+                        138,
+                        133,
+                        133
+                    ],
+                    "all_points_y": [
+                        96,
+                        87,
+                        105,
+                        119,
+                        123,
+                        112,
+                        96
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        133,
+                        128,
+                        149,
+                        156,
+                        154,
+                        133
+                    ],
+                    "all_points_y": [
+                        36,
+                        16,
+                        9,
+                        23,
+                        36,
+                        36
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        126,
+                        112,
+                        133,
+                        156,
+                        160,
+                        142,
+                        126
+                    ],
+                    "all_points_y": [
+                        46,
+                        32,
+                        2,
+                        2,
+                        34,
+                        46,
+                        46
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        55,
+                        21,
+                        21,
+                        48,
+                        55
+                    ],
+                    "all_points_y": [
+                        87,
+                        91,
+                        55,
+                        46,
+                        87
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_17_11.jpg11326": {
+        "filename": "44_17_11.jpg",
+        "size": 11326,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        181,
+                        202,
+                        213,
+                        199,
+                        183,
+                        181,
+                        181
+                    ],
+                    "all_points_y": [
+                        216,
+                        214,
+                        198,
+                        184,
+                        191,
+                        205,
+                        216
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        172,
+                        172,
+                        197,
+                        222,
+                        220,
+                        179,
+                        172
+                    ],
+                    "all_points_y": [
+                        212,
+                        191,
+                        168,
+                        184,
+                        221,
+                        221,
+                        212
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        195,
+                        195,
+                        208,
+                        222,
+                        206,
+                        195
+                    ],
+                    "all_points_y": [
+                        328,
+                        312,
+                        299,
+                        319,
+                        326,
+                        328
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        188,
+                        186,
+                        218,
+                        236,
+                        220,
+                        188
+                    ],
+                    "all_points_y": [
+                        331,
+                        301,
+                        292,
+                        305,
+                        333,
+                        331
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_17_12.jpg10704": {
+        "filename": "44_17_12.jpg",
+        "size": 10704,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        195,
+                        195,
+                        208,
+                        222,
+                        206,
+                        195
+                    ],
+                    "all_points_y": [
+                        78,
+                        62,
+                        49,
+                        69,
+                        76,
+                        78
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        188,
+                        186,
+                        218,
+                        236,
+                        220,
+                        188
+                    ],
+                    "all_points_y": [
+                        81,
+                        51,
+                        42,
+                        55,
+                        83,
+                        81
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_19_7.jpg14034": {
+        "filename": "44_19_7.jpg",
+        "size": 14034,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        310,
+                        308,
+                        347,
+                        347,
+                        310
+                    ],
+                    "all_points_y": [
+                        330,
+                        298,
+                        303,
+                        335,
+                        330
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        315,
+                        317,
+                        342,
+                        342,
+                        315
+                    ],
+                    "all_points_y": [
+                        289,
+                        280,
+                        280,
+                        298,
+                        289
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        189,
+                        189,
+                        210,
+                        217,
+                        189
+                    ],
+                    "all_points_y": [
+                        310,
+                        292,
+                        289,
+                        312,
+                        310
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        223,
+                        214,
+                        182,
+                        173,
+                        173,
+                        223
+                    ],
+                    "all_points_y": [
+                        335,
+                        308,
+                        312,
+                        310,
+                        342,
+                        335
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_19_8.jpg10382": {
+        "filename": "44_19_8.jpg",
+        "size": 10382,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        310,
+                        308,
+                        347,
+                        347,
+                        310
+                    ],
+                    "all_points_y": [
+                        80,
+                        48,
+                        53,
+                        85,
+                        80
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        315,
+                        317,
+                        342,
+                        342,
+                        315
+                    ],
+                    "all_points_y": [
+                        39,
+                        30,
+                        30,
+                        48,
+                        39
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        189,
+                        189,
+                        210,
+                        217,
+                        189
+                    ],
+                    "all_points_y": [
+                        60,
+                        42,
+                        39,
+                        62,
+                        60
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        223,
+                        214,
+                        182,
+                        173,
+                        173,
+                        223
+                    ],
+                    "all_points_y": [
+                        85,
+                        58,
+                        62,
+                        60,
+                        92,
+                        85
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_20_7.jpg7867": {
+        "filename": "44_20_7.jpg",
+        "size": 7867,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        60,
+                        58,
+                        97,
+                        97,
+                        60
+                    ],
+                    "all_points_y": [
+                        330,
+                        298,
+                        303,
+                        335,
+                        330
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        65,
+                        67,
+                        92,
+                        92,
+                        65
+                    ],
+                    "all_points_y": [
+                        289,
+                        280,
+                        280,
+                        298,
+                        289
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44_20_8.jpg5937": {
+        "filename": "44_20_8.jpg",
+        "size": 5937,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        60,
+                        58,
+                        97,
+                        97,
+                        60
+                    ],
+                    "all_points_y": [
+                        80,
+                        48,
+                        53,
+                        85,
+                        80
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Nut"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        65,
+                        67,
+                        92,
+                        92,
+                        65
+                    ],
+                    "all_points_y": [
+                        39,
+                        30,
+                        30,
+                        48,
+                        39
+                    ]
+                },
+                "region_attributes": {
+                    "class": "Thread"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
